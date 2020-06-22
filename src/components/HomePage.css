@@ -1,0 +1,117 @@
+.bg-color {
+    background-color: #ffa69e;
+    background-image: linear-gradient(315deg, #ffa69e 0%, #5d4954 74%);
+    height: 100vh
+}
+
+
+.searchbox {
+    display: block;
+    width: 80%;
+    
+    background-color: #EEE;
+    border-radius: 10px;
+    border-color: pink;
+  
+    color: #53565A;
+    font-size: 20px;
+    font-weight: 300;
+
+    transition: 0.4s ease-out
+}
+
+.searchbtn {
+
+    background-color: black;
+    margin-left: -30px;
+    border-radius: 1px;
+    color: #53565A
+
+}
+
+.img-super {
+
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+
+}
+
+.div-super {
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+    background-color: black;
+}
+
+@media (max-width: 576px) {
+
+    .img-super {
+
+        height: auto;
+        width: 200px;
+        margin-top: 0px;
+    
+    }
+
+    .img-center {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .div-super-small {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    
+    .nav-tabs {
+        justify-content: center;
+    }
+
+    .biography {
+        font-size: 20px;
+        margin-top: 10px;
+        border-width: 1px;
+        border-bottom: yellow;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        background-color: transparent;
+    }
+
+    .btn-color {
+        background-color: black;
+        border-color: white;
+        border-width: 1.2px;
+    }
+
+    .container-bg-color {
+        background-color: #ffa69e;
+        background-image: linear-gradient(315deg, #ffa69e 0%, #5d4954 74%);
+    }
+
+}
+
+@media (min-width: 768px) {
+
+    .lg-mt {
+        margin-top: 200px;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        background-color: transparent;
+    }
+
+    .btn-color {
+        background-color: black;
+        border-color: white;
+        border-width: 1.2px;
+    }
+
+
+}
