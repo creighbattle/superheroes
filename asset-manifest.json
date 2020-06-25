@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/superheroes/static/css/main.8a485824.chunk.css",
-    "main.js": "/superheroes/static/js/main.ccf4b974.chunk.js",
-    "main.js.map": "/superheroes/static/js/main.ccf4b974.chunk.js.map",
+    "main.css": "/superheroes/static/css/main.d66ddc67.chunk.css",
+    "main.js": "/superheroes/static/js/main.22ca594d.chunk.js",
+    "main.js.map": "/superheroes/static/js/main.22ca594d.chunk.js.map",
     "runtime-main.js": "/superheroes/static/js/runtime-main.1a8db2f0.js",
     "runtime-main.js.map": "/superheroes/static/js/runtime-main.1a8db2f0.js.map",
     "static/css/2.af3c1da9.chunk.css": "/superheroes/static/css/2.af3c1da9.chunk.css",
     "static/js/2.364169c4.chunk.js": "/superheroes/static/js/2.364169c4.chunk.js",
     "static/js/2.364169c4.chunk.js.map": "/superheroes/static/js/2.364169c4.chunk.js.map",
     "index.html": "/superheroes/index.html",
-    "precache-manifest.a6f92becc1e87a13a9ba41f6d76c80ed.js": "/superheroes/precache-manifest.a6f92becc1e87a13a9ba41f6d76c80ed.js",
+    "precache-manifest.0e62d980ce0271798647a82da7442e68.js": "/superheroes/precache-manifest.0e62d980ce0271798647a82da7442e68.js",
     "service-worker.js": "/superheroes/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/superheroes/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.8a485824.chunk.css.map": "/superheroes/static/css/main.8a485824.chunk.css.map",
+    "static/css/main.d66ddc67.chunk.css.map": "/superheroes/static/css/main.d66ddc67.chunk.css.map",
     "static/js/2.364169c4.chunk.js.LICENSE.txt": "/superheroes/static/js/2.364169c4.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/superheroes/static/media/logo.5d5d9eef.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.1a8db2f0.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.364169c4.chunk.js",
-    "static/css/main.8a485824.chunk.css",
-    "static/js/main.ccf4b974.chunk.js"
+    "static/css/main.d66ddc67.chunk.css",
+    "static/js/main.22ca594d.chunk.js"
   ]
 }
